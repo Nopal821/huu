@@ -316,10 +316,7 @@
                 <img src="{{ asset('img/lapas.png') }}" alt="Logo" class="logo">
                 <span class="title">JurnalLasgar</span>
             </div>
-            <form action="{{ route('search') }}" method="GET" class="form-inline mb-4">
-    <input type="text" name="query" class="form-control" placeholder="Cari Agenda atau Atensi" required>
-    <button type="submit" class="btn btn-primary ml-2">Cari</button>
-</form>
+          
 
                 <div class="dropdown">
     <a href="#" id="accountDropdown" data-bs-toggle="dropdown" aria-expanded="false">

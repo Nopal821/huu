@@ -165,10 +165,7 @@
             <img src="{{ asset('img/lapas.png') }}" alt="Logo" class="logo">
             <span class="title">JurnalLasgar</span>
         </div>
-        <div class="search-bar">
-            <input type="text" class="form-control" id="searchInput" placeholder="Search">
-            <i class="fas fa-search search-icon"></i>
-        </div>
+        
     </div>
 
     <!-- Sidebar dan Konten -->
